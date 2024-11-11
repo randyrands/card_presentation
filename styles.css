@@ -45,7 +45,6 @@
     bottom: 0;
 }
 
-
 .card .head .img {
     width: 150px;
     height: 150px;
@@ -68,7 +67,6 @@
 .card .description {
     height: 210px;
     padding: 20px 20px 20px 20px;
-
     text-align: justify;
 }
 
@@ -91,7 +89,6 @@
     margin-top: 20px;
     font-size: 15px;
 }
-
 
 .social-media {
     text-align: center;
